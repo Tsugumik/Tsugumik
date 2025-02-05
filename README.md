@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsugumik&label=Profile%20views&color=0e75b6&style=flat" alt="tsugumik" /> </p>
 
-- 🌱 I’m currently learning **Advanced C++, RayLib and OpenGL**
+- 🌱 I’m currently learning **Advanced C++ and Vulkan**
 
 - ⚡ Fun fact **I really hate Python**
 
