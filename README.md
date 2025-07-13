@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Błażej Drozd</h1>
-<h3 align="center">Applied Computer Science at the Bydgoszcz University of Science and Technology</h3>
 
 <h3 align="left">Favorite tools & technologies:</h3>
 
