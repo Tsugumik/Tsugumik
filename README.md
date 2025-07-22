@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Błażej Drozd</h1>
 
-<h3 align="left">Favorite tools & technologies:</h3>
+<h3 align="left">Tools & technologies:</h3>
 
 <ul>
   <li>⚙️ Rust, C++, C#, JavaScript and TypeScript</li>
