@@ -3,7 +3,7 @@
 <h3 align="left">Favorite tools & technologies:</h3>
 
 <ul>
-  <li>⚙️ Rust, C++, C#</li>
+  <li>⚙️ Rust, C++, C#, JavaScript and TypeScript</li>
   <li>🎮 Godot Engine</li>
   <li>🌐 SvelteKit, TailwindCSS, DaisyUI, Tauri; Databases: MongoDB and MariaDB</li>
   <li>🧠 Matlab (for engineering and simulation tasks)</li>
